@@ -1,6 +1,6 @@
 # SmartRoute
 
-## Team 9 Members
+## Team Members
 
 - Eric Koh Meng Hwan
 - Lester Tan Yi Teck
